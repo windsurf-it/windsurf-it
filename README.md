@@ -2,10 +2,10 @@
 
 <div align="left">
 
-<a target="_blank" href="https://linkedin.com/in/windsurf-it"><img src="https://img.shields.io/badge/25winston-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
-<a target="_blank" href="https://github.com/windsurf-it"><img src="https://img.shields.io/badge/25winston-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
-<a target="_blank" href="https://instagram.com/windsurf.it"><img src="https://img.shields.io/badge/25winston-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
-<a target="_blank" href="https://x.com/windsurf_it"><img src="https://img.shields.io/badge/25winston-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9"/></a> 
+<a target="_blank" href="https://linkedin.com/in/windsurf-it"><img src="https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
+<a target="_blank" href="https://github.com/windsurf-it"><img src="https://img.shields.io/badge/GITHUB-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a target="_blank" href="https://instagram.com/windsurf.it"><img src="https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
+<a target="_blank" href="https://x.com/windsurf_it"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=2296E9"/></a> 
 <a><img src="https://komarev.com/ghpvc/?username=25winston&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a> 
 
 </div>  
