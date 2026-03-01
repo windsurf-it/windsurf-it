@@ -3,17 +3,21 @@
 <div align="left">
 
 <a target="_blank" href="https://linkedin.com/in/windsurf-it"><img src="https://img.shields.io/badge/LINKEDIN-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white&color=1A7AB5"/></a> 
+<a target="_blank" href="https://x.com/windsurf_it"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&color=191A1A"/></a> 
+<a><img src="https://komarev.com/ghpvc/?username=windsurf-it&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a> 
+
+<!--
 <a target="_blank" href="https://github.com/windsurf-it"><img src="https://img.shields.io/badge/GITHUB-12100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
 <a target="_blank" href="https://instagram.com/windsurf.it"><img src="https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=D12B7A"/></a> 
-<a target="_blank" href="https://x.com/windsurf_it"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&color=191A1A"/></a> 
-<a><img src="https://komarev.com/ghpvc/?username=25winston&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/></a> 
+-->
+
 
 </div>  
 
 <table>
   <tr>
     <td>
-     <h1>Hi Guys <img src="https://i.imgur.com/R4SfNQG.gif" width="25">, I'm <a rel="noopener noreferrer">Winston</a> !</h1>
+     <h1>Hi Guys <img src="https://i.imgur.com/R4SfNQG.gif" width="25">, I'm <a rel="noopener noreferrer">Wind</a> !</h1>
 
 Welcome to my github
 I am satisfied and I tried most fields of programming such as web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a leader developer in a company.
@@ -23,13 +27,13 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
 <br/>
 <a target="_blank" href="https://open.spotify.com/user/jjzobpl40am1hc6y1fs7oukqj"><img src="https://img.shields.io/badge/Follow me on Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Spotify"></a> 
-<a target="_blank" href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Last Favorited"></a>
+<!-- <a target="_blank" href="https://open.spotify.com/playlist/7rV5ZnwTaL2vVAE7bgW9Mi"><img src="https://img.shields.io/badge/Last Favorited-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=35D860" alt="Last Favorited"></a> -->
 
-   </td>
+ <!--  </td>
    <td align="center" width="30%"> 
-      <a target="_blank" href="https://app.daily.dev/25winston"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
+      <a target="_blank" href="https://app.daily.dev/windsurf-it"><img src="https://api.daily.dev/devcards/50af7b7cb66b46a8a535d2982b7dbeb3.png?r=co0" width="400" alt="Rawin Ormklang's Dev Card"/></a> <br/><br/>
 
-   </td>
+   </td> -->
   </tr>
   <!--
  <tr>
@@ -106,13 +110,8 @@ I am satisfied and I tried most fields of programming such as web design and dev
 
 </p>
 
-
-#### 📊 Github stats
-
-<img alt="25winston's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=25winston&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=185be0&icon_color=185be0" height="192px"/></a>
-<img alt="25winston's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25winston&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
-
+<!--
 #### 📈  Recent GitHub Activity
-<img alt="winstonprince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=25winston&theme=react" />
-
+<img alt="winstonprince's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=windsurf-it&theme=react" />
+->
 
